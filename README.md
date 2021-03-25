@@ -4,8 +4,8 @@ Aplikasi Telbang Telbang
 Project Description:
 Merupakan aplikasi console untuk tugas 1 logika algoritma
 
-Acuan mengerjakan tugas:
-1 dan 2 Paket Wisata dan Tujuan Perjalanan
+Acuan mengerjakan tugas: 
+##  1 dan 2 Paket Wisata dan Tujuan Perjalanan
 Paket Wisata Dalam Negeri :
 a. Paket Wisata Medan
 b. Paket Wisata Jakarta
@@ -18,12 +18,12 @@ b. Paket Wisata Singapura
 c. Paket Wisata Bangkok
 d. Paket Wisata Australia
 
-3. Transportasi
+## 3. Transportasi
 Terdapat 2 pilihan:
 a. Jalur Darat hanya untuk dalam negeri (Bus)
 b. Jalur Udara (Pesawat), terdapat kelas business, economy, first
 
-4. Hotel
+## 4. Hotel
 Terdapat 3 pilihan :
 a. Bintang 3, dengan fasilitas:
 - Fasilitas di dalam kamar berupa AC, TV, Wifi, Kamar mandi dan toilet yang terpisah
